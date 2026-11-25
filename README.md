@@ -39,7 +39,9 @@ plugins/godot-workflow/                 Godot MVP 開發用的 plugin
 
 ## 狀態
 
-✅ 雲端 session 已驗證（game-lab 實驗 005）。⏳ 本機待驗證。
+⏸️ **暫停中**（game-lab 實驗 005）：雲端 session 讀得到這個 plugin，但會一直用第一次抓到的版本，push 新版傳不過去。目前 skill 與 command 維持放在 game-lab template 裡，**這裡的內容不是最新版，也沒有專案在使用**。
+
+詳細紀錄：game-lab 的 `notes/2026-11-25_plugin-distribution.md`。
 
 ## 本機安裝（Claude Code CLI / 桌面版）
 
