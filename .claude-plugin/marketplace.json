@@ -1,0 +1,14 @@
+{
+  "name": "studio-kit",
+  "description": "個人遊戲工作室的 Claude Code plugin：Godot 工作流的 skill 與 command",
+  "owner": {
+    "name": "ooops24"
+  },
+  "plugins": [
+    {
+      "name": "godot-workflow",
+      "source": "./plugins/godot-workflow",
+      "description": "Godot MVP 開發用的 skill 與 command"
+    }
+  ]
+}
